@@ -38,3 +38,5 @@ for i in range(2,n):
     else:
         print(i,res)
         break
+
+        
